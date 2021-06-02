@@ -1,4 +1,4 @@
-# Seleniun-Web-Otomation
+# Selenium-Web-Otomation
 
 This is a simple Maven project written in Java. It uses Selenium, JUnit, and Log4J libraries.
 It simply opens a specific website so that some operations, like login process and seacrhing a word in the search box, can be done.
