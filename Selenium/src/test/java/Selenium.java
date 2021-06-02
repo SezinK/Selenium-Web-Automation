@@ -40,7 +40,7 @@ public class Selenium{
         driver.manage().timeouts().implicitlyWait(3,TimeUnit.SECONDS);
 
         //Enter password
-        driver.findElement(By.cssSelector("#Password")).sendKeys("s1995k");
+        driver.findElement(By.cssSelector("#Password")).sendKeys("s12345678");
 
         //Click on Login
         driver.findElement(By.cssSelector("#Login")).click();
